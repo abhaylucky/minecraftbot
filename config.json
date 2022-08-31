@@ -1,0 +1,15 @@
+{
+    "ip": "THE_FBI.aternos.me",
+    "port": "55611",
+    "name": "AJJUBHAI",
+    "password": "",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
+}
